@@ -81,18 +81,18 @@ The VGG19 model was utilized with transfer learning, leveraging pre-trained weig
 
 #### VGG19  (Without Hyperparameter Tuning):
 
-1. Accuracy and Loss Graphs
+##### 1. Accuracy and Loss Graphs
 ![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_without_hyperparameter_tuning_loss_acc_graph.png)
 
-2. Confusion Matrix
+##### 2. Confusion Matrix
 ![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_without_hyperparameter_tuning_conf_mat.png)
 
 #### VGG19 ( With Hyperparameter Tuning):
 
-1. Accuracy and Loss Graphs
+##### 1. Accuracy and Loss Graphs
 ![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_with_hyperparameter_tuning_loss_acc_graph.png)
  
-2. Confusion Matrix
+##### 2. Confusion Matrix
 ![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_with_hyperparameter_tuning_conf_mat.png)
 
 ### Model 2: Deep Convolutional Neural Network (CNN):
@@ -100,18 +100,18 @@ A deep CNN architecture with 8 layers was designed and implemented. The model wa
 
 #### Deep Convolutional Neural Network ( Without Hyperparameter Tuning):
 
-1. Accuracy and Loss Graphs
+##### 1. Accuracy and Loss Graphs
 ![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_without_hyperparameter_tuning_loss_acc_graph.png)
  
-2. Confusion Matrix
+##### 2. Confusion Matrix
 ![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_without_hyperparameter_tuning_conf_mat.png)
 
 #### Deep Convolutional Neural Network ( With Hyperparameter Tuning):
  
-1. Accuracy and Loss Graphs
+##### 1. Accuracy and Loss Graphs
 ![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_with_hyperparameter_tuning_loss_acc_graph.png)
 
-2. Confusion Matrix
+##### 2. Confusion Matrix
 ![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_with_hyperparameter_tuning_conf_mat.png)
 
 ### Model 3: Vision Transformer (ViTb16):
@@ -119,10 +119,10 @@ The Vision Transformer model, with pre-trained weights from the ViTb16 architect
 
 #### Vision Transformer - ViTB16:
 
-1. Accuracy and Loss Graphs
+##### 1. Accuracy and Loss Graphs
 ![Vit](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vit_without_hyperparameter_tuning_loss_acc_graph.png)
  
-2. Confusion Matrix
+##### 2. Confusion Matrix
 ![Vit](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vit_without_hyperparameter_tuning_conf_mat.png)
 
 ## Conclusion:
