@@ -81,46 +81,37 @@ The VGG19 model was utilized with transfer learning, leveraging pre-trained weig
 
 #### VGG19  (Without Hyperparameter Tuning):
 
-1. F1-Score, Precision, and Recall of each Emotion class
-![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_without_hyp_metrices.png)
-
-2. Accuracy and Loss Graphs
+1. Accuracy and Loss Graphs
 ![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_without_hyperparameter_tuning_loss_acc_graph.png)
 
-3 Confusion Matrix
+2. Confusion Matrix
 ![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_without_hyperparameter_tuning_conf_mat.png)
 
 #### VGG19 ( With Hyperparameter Tuning):
-1. F1-Score, Precision, and Recall of each Emotion class
-![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_with_hyp_metrices.png)
 
-2 Accuracy and Loss Graphs
+1. Accuracy and Loss Graphs
 ![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_with_hyperparameter_tuning_loss_acc_graph.png)
  
-3 Confusion Matrix
+2. Confusion Matrix
 ![VGG19](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vgg19_with_hyperparameter_tuning_conf_mat.png)
 
 ### Model 2: Deep Convolutional Neural Network (CNN):
 A deep CNN architecture with 8 layers was designed and implemented. The model was trained on the balanced dataset, both with and without hyperparameter tuning. Surprisingly, the model without hyperparameter tuning performed better, achieving an overall testing accuracy of 70%. 
 
 #### Deep Convolutional Neural Network ( Without Hyperparameter Tuning):
-1 F1-Score, Precision, and Recall of each Emotion class
-![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_without_hyp_metrices.png)
 
-2 Accuracy and Loss Graphs
+1. Accuracy and Loss Graphs
 ![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_without_hyperparameter_tuning_loss_acc_graph.png)
  
-3 Confusion Matrix
+2. Confusion Matrix
 ![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_without_hyperparameter_tuning_conf_mat.png)
 
 #### Deep Convolutional Neural Network ( With Hyperparameter Tuning):
-1 F1-Score, Precision, and Recall of each Emotion class
-![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_with_hyp_metrices.png)
  
-2 Accuracy and Loss Graphs
+1. Accuracy and Loss Graphs
 ![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_with_hyperparameter_tuning_loss_acc_graph.png)
 
-3 Confusion Matrix
+2. Confusion Matrix
 ![CNN](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/cnn_with_hyperparameter_tuning_conf_mat.png)
 
 ### Model 3: Vision Transformer (ViTb16):
@@ -128,14 +119,10 @@ The Vision Transformer model, with pre-trained weights from the ViTb16 architect
 
 #### Vision Transformer - ViTB16:
 
-1 F1-Score, Precision, and Recall of each Emotion class
-![Vit](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vit_without_hyp_metrices.png)
-
- 
-2 Accuracy and Loss Graphs
+1. Accuracy and Loss Graphs
 ![Vit](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vit_without_hyperparameter_tuning_loss_acc_graph.png)
  
-3 Confusion Matrix
+2. Confusion Matrix
 ![Vit](https://github.com/sharma-prerna/Facial-Expression-Recognition/blob/main/vit_without_hyperparameter_tuning_conf_mat.png)
 
 ## Conclusion:
